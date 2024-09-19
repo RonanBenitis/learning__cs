@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csrepos\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {}
+    "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\aplicando_oo\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {}
   },
   "projects": {
-    "D:\\csrepos\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {
+    "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\aplicando_oo\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csrepos\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+        "projectUniqueName": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\aplicando_oo\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
         "projectName": "ScreenSound",
-        "projectPath": "D:\\csrepos\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+        "projectPath": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\aplicando_oo\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
         "packagesPath": "C:\\Users\\ronan\\.nuget\\packages\\",
-        "outputPath": "D:\\csrepos\\ScreenSound\\ScreenSound\\obj\\",
+        "outputPath": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\aplicando_oo\\ScreenSound\\ScreenSound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ronan\\AppData\\Roaming\\NuGet\\NuGet.Config",
