@@ -5,4 +5,4 @@
 
 A Seção de Estudos (Study Section) reune as anotações, produções e exercícios referente ao estudo da tecnologia em questão.
 
-Além disso, este repositório é um submodulo de [Study Room](https://github.com/RonanBenitis/studyRoom/tree/main), repositório hubby de todas as Seções de Estudo. Visite o link do [Study Room](https://github.com/RonanBenitis/studyRoom/tree/main) para verificar mais sobre meu aprendizado de outras tecnologias.
+Além disso, este repositório é um submodulo de [Study Room](https://github.com/RonanBenitis/studyRoom/tree/main), repositório hub de todas as Seções de Estudo. Visite o link do [Study Room](https://github.com/RonanBenitis/studyRoom/tree/main) para verificar mais sobre meu aprendizado de outras tecnologias.
