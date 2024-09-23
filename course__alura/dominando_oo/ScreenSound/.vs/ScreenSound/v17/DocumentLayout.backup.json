@@ -9,18 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|d:\\workroom\\studyroom\\learning__cs\\course__alura\\dominando_oo\\screensound\\screensound\\modelos\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|d:\\workroom\\studyroom\\learning__cs\\course__alura\\dominando_oo\\screensound\\screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|d:\\workroom\\studyroom\\learning__cs\\course__alura\\dominando_oo\\screensound\\screensound\\modelos\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|d:\\workroom\\studyroom\\learning__cs\\course__alura\\dominando_oo\\screensound\\screensound\\screensound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\screensound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Musica.cs",
-              "DocumentMoniker": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\Modelos\\Musica.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Musica.cs",
-              "ToolTip": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\Modelos\\Musica.cs",
-              "RelativeToolTip": "ScreenSound\\Modelos\\Musica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:56:46.365Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -53,35 +28,9 @@
               "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Banda.cs",
               "ToolTip": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\Modelos\\Banda.cs",
               "RelativeToolTip": "ScreenSound\\Modelos\\Banda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:56:37.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Album.cs",
-              "DocumentMoniker": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\Modelos\\Album.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Album.cs",
-              "ToolTip": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\Modelos\\Album.cs",
-              "RelativeToolTip": "ScreenSound\\Modelos\\Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:55:10.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ScreenSound",
-              "DocumentMoniker": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
-              "RelativeDocumentMoniker": "ScreenSound\\ScreenSound.csproj",
-              "ToolTip": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
-              "RelativeToolTip": "ScreenSound\\ScreenSound.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T13:54:56.267Z",
+              "WhenOpened": "2024-09-20T17:15:41.106Z",
               "EditorCaption": ""
             },
             {
@@ -92,9 +41,9 @@
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAqwK4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T18:04:06.31Z",
+              "WhenOpened": "2024-09-20T16:49:53.475Z",
               "EditorCaption": ""
             }
           ]

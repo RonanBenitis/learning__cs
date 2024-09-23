@@ -1,6 +1,6 @@
 ﻿namespace ScreenSound.Modelos;
 
-class Album
+internal class Album
 {
     // Atributos, na notação C#, é chamado de Campo
     private List<Musica> _musicas = [];
