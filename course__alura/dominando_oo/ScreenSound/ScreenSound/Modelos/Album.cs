@@ -1,9 +1,10 @@
 ﻿namespace ScreenSound.Modelos;
 
-internal class Album
+internal class Album : IAvaliavel
 {
     // Atributos, na notação C#, é chamado de Campo
     private List<Musica> _musicas = [];
+    private List<Avaliacao> _notas = [];
 
     // Método construtor
     public Album(string nome)
@@ -16,7 +17,14 @@ internal class Album
 
 
     public int DuracaoTotal => _musicas.Sum(m => m.Duracao);
-    public List<Musica> Musicas => _musicas;
+    public IEnumerable<Musica> Musicas => _musicas;
+
+    public double Media => _notas.Count == 0 ? 0 : _notas.Average(a => a.Nota);
+
+    public void AddNota(Avaliacao nota)
+    {
+        _notas.Add(nota);
+    }
 
     // Estabelecendo relação de musicas dentro de albuns
     public void AdicionarMusica(Musica musica)

@@ -15,10 +15,14 @@ internal class MenuExibirDetalhes : Menu
         {
             Banda banda = bandasRegistradas[nomeBanda];
             Console.WriteLine($"\nA média da banda {nomeBanda} é {banda.Media}.");
-            /*
-             * Completa função
-             */
-            Console.WriteLine("Digite uma tecla para voltar ao menu principal");
+            Console.WriteLine("\nDiscrografia:");
+
+            foreach(Album album in banda.Albuns)
+            {
+                Console.WriteLine($"{album.Nome} -> {album.Media}");
+            }
+
+            Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
             Console.ReadKey();
             Console.Clear();
         }
