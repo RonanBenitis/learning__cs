@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|d:\\workroom\\studyroom\\learning__cs\\course__alura\\dominando_oo\\screensound\\screensound\\menus\\menuregistrarbandas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuregistrarbandas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|d:\\workroom\\studyroom\\learning__cs\\course__alura\\dominando_oo\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E054FADE-CDAE-41BB-A929-7271CEE84F0F}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MenuRegistrarBandas.cs",
-              "DocumentMoniker": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarBandas.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarBandas.cs",
-              "ToolTip": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarBandas.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarBandas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T22:32:19.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "D:\\Workroom\\studyRoom\\learning__cs\\course__alura\\dominando_oo\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:22:50.959Z"
+              "WhenOpened": "2024-09-24T20:22:50.959Z",
+              "EditorCaption": ""
             }
           ]
         }
